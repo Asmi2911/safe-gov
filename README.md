@@ -1,7 +1,4 @@
-Got you, let’s upgrade the README to include the Streamlit frontend ✨
-Here’s a **full, copy-paste-ready `README.md`** for your project:
 
-````markdown
 # SAFE-GOV: Multi-Agent AI Governance & Safety Auditor  
 **Track:** Enterprise Agents
 
